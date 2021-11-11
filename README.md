@@ -5,9 +5,9 @@ Main method is located in TryGui.java
 download ojdbc14.jar
 https://mvnrepository.com/artifact/ojdbc14/ojdbc14/10.2.0.3.0
 
-username:piyush
+username:mandeep
 
-password:kapoor
+password:dheer
 
 database:empnew
 
