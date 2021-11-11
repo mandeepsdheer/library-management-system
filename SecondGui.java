@@ -47,7 +47,7 @@ public class SecondGui extends JFrame implements ActionListener
 			if(a.getSource()==b1)
 			{	use=username.getText();
 				pass=password.getText();
-				if(use.equals("piyush")&&pass.equals("kapoor"))
+				if(use.equals("mandeep")&&pass.equals("dheer"))
 					{
 					setVisible(false);
 					ThirdGui obj = new ThirdGui();
